@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### 1. Activate Environment
 ```powershell
-C:/Users/umaim/anaconda3/Scripts/activate
+C:/Users/manisai/anaconda3/Scripts/activate
 conda activate gpu_env
 ```
 
